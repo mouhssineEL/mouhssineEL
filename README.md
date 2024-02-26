@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps and cloud Computing
 - 💬 Ask me about anything: Linux, Bash Scripting, Cloud
   	<div>
-	  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api?username=mouhssineEL&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
-	  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhssineEL&layout=compact&langs_count=8&theme=radical" />
+	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhssineEL&layout=compact&langs_count=8&theme=radical" />
 	</div>
 
