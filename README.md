@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - CyberSecurity Student at INSA CVL
 - 🌱 I’m currently learning DevOps and cloud Computing
-- 💬 Ask me about anything: Linux, Bash Scripting, Cloud
+- 💬 Ask me about: Linux, Bash Scripting, Cloud, security
 
 ## 🛠️ Technologies and Tools
 <p>
