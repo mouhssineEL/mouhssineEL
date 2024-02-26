@@ -1,5 +1,4 @@
 ### Hi there 👋
-Linguist::FileBlob.new("vendor/plugins/foo.rb").vendored? # => true
 <!--
 **mouhssineEL/mouhssineEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
