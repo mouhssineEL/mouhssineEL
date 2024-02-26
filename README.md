@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Linguist::FileBlob.new("vendor/plugins/foo.rb").vendored? # => true
 <!--
 **mouhssineEL/mouhssineEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- Hi! I am mouhssine
+- I am mouhssine
   <div>
 	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhssineEL&layout=compact&langs_count=8&theme=radical" />
 	  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mouhssineEL&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>
