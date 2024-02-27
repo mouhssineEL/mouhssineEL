@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Apache2" src="https://img.shields.io/badge/-Apache2-cc0033?style=flat&logo=apache&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />  
+<img alt="Burpsuite" src ="https://img.shields.io/badge/Burpsuite-E95300?logo=Burpsuite&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-005370?style=flat&logo=debian&logoColor=white" />  
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" />
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
