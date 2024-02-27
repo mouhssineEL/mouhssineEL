@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
   <img alt="C"      src="https://img.shields.io/badge/C-2496ED?style=flat&logo=C&logoColor=white" />
-  <img alt="Java"   src="https://img.shields.io/badge/Java-f5f5f5?style=flat&logo=C&logoColor=white" />
+  <img alt="Java"   src="https://img.shields.io/badge/Java-f5f5f5?style=flat&logo=Java&logoColor=white" />
   <img alt="AWS"    src="https://img.shields.io/badge/AWS-%20ff9900?logo=AWS&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Apache2" src="https://img.shields.io/badge/-Apache2-cc0033?style=flat&logo=apache&logoColor=white"/>
