@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 --> 
 - I am mouhssine
   <div>
-	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhssineEL&layout=compact&langs_count=8&theme=radical" />
+	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhssineEL&layout=compact&langs_count=10&theme=radical" />
 	  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mouhssineEL&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=dracula"/>
 </div>
 
